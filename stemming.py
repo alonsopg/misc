@@ -3,17 +3,7 @@
 from nltk import word_tokenize
 from nltk.stem import SnowballStemmer
 
-opinions = ["Este es un post de juguetes de aprendizaje \
-automático. En realidad, contiene no mucho \
-material interesante.",
-"Las bases de datos de imágenes proporcionan \
-capacidades de almacenamiento.",
-"La mayoría de las bases de datos de imágenes \
-imágenes seguras de forma permanente.",
-"Los datos de imagen de tienda bases de datos.",
-"Imagina almacenar bases de datos de bases de \
-datos de imágenes. Almacenar datos. Bases de datos \
-de imágenes de datos de la tienda."]
+opinions = ["Etienda."]
 
 stemmer = SnowballStemmer('spanish')
 
